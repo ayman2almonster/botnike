@@ -27,4 +27,4 @@ var x5bz2 = ' ';
 }
 x5bzteam.connect();
 
-client.login(MzU1MTI2NDk2MTY5NDI2OTQ1.Ds4fwg.OLOUmMuXSV3pK3Ae1MGYW2bcS6c);
+client.login(process.env.BOT_TOKEN);
